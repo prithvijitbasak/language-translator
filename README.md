@@ -1,7 +1,7 @@
 # Language Translator
 A fully working language translator.
 ## Tech Stacks
-HTML%, CSS3, JavaScript.
+HTML5, CSS3, JavaScript.
 ## Hosted Link
 https://pbtranslator.netlify.app/
 ### **Note**
